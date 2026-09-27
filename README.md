@@ -4,8 +4,6 @@ A single-player Blackjack (21) card game for iPhone and iPad, built entirely in
 SwiftUI. Tap, swipe, or double-tap the table to deal, hit, and stand against a
 dealer that draws to 17.
 
-> Coursework project for **MTD367 iOS Development** (SUSS, Year 3 Semester 1).
-
 ![Blackjack — play in progress](Screenshots/playing.png)
 ![Blackjack — player wins with a two-card 21](Screenshots/blackjack-win.png)
 
